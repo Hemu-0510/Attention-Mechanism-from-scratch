@@ -17,9 +17,9 @@ Final attention output generation
 Beginner-friendly and easy-to-understand code
 
  # Technologies Used
-Python 3
-NumPy
-Jupyter Notebook
+1.Python 3
+2.NumPy
+3.Jupyter Notebook
 # Repository Structure
 Attention-Mechanism-from-scratch/
 │── Attention Mechanism.ipynb
